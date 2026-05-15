@@ -19,7 +19,7 @@ ShadowFox/
 │   └── assets
 │
 ├── task2/
-│   ├── intermidiate.html
+│   ├── index.html
 │   ├── README.md
 │   └── assets
 │
